@@ -13,7 +13,7 @@ pnpm install
 
 ```
 
-### 1. Run
+### 2. Run
 
 ```bash
 pnpm dev
